@@ -3,6 +3,10 @@
 "nome": "kitkat",
 "preco": 4.40,
 "quantidade": 15,
-"disponivel": null
+"disponivel": null,
+    "outro": {
+    "nome": "trento",   
+    "valor": 3.50
         }
+}
 }

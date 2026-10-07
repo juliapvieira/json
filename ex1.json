@@ -4,6 +4,11 @@
         "ano": 2018,
         "diretor":"Susan Johnson",
         "genero": ["romance", "comédia"],
-        "continuacao": null
+        "continuacao": null,
+        "outro": {
+            "nome": "A empregada",
+            "genero": "suspense"
+        }
+        
     }
 }

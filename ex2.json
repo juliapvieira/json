@@ -4,8 +4,13 @@
         "idade": 16,
         "notas": ["10", "6", "9"],
         "aprovado": true,
-        "resultado": null
-    }
+        "resultado": null,
+    "outro": {
+    "nome": "Dafny",   
+    "notas": ["9", "6", "10"]
+        }
 }
+    }
+
 
 
