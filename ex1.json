@@ -3,6 +3,7 @@
         "nome": "para todos garotos que já amei",
         "ano": 2018,
         "diretor":"Susan Johnson",
-        "genero": ["romance", "comédia"]
+        "genero": ["romance", "comédia"],
+        "continuacao": null
     }
 }

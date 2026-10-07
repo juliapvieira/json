@@ -3,7 +3,8 @@
         "nome": "Júlia Pardim",
         "idade": 16,
         "notas": ["10", "6", "9"],
-        "aprovado": true
+        "aprovado": true,
+        "resultado": null
     }
 }
 
