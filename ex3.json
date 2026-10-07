@@ -1,0 +1,8 @@
+{
+"produto": {
+"nome": "kitkat",
+"preco": 4,
+"quantidade": 15,
+"disponivel": true
+        }
+}

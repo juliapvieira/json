@@ -1,0 +1,9 @@
+{
+    "aluno": {
+        "nome": "Júlia Pardim",
+        "idade": 16,
+        "notas": 10,
+        "aprovado": true
+    }
+}
+
